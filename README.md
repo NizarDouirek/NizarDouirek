@@ -1,6 +1,6 @@
 # 💫 About Me:
-Passionné par le développement digital, je suis un développeur Full Stack spécialisé dans la création d’applications modernes et performantes. Avec une expertise en Frontend (React.js, React Native , css, bootstrap..) et Backend (Laravel, PHP), je conçois des solutions robustes et évolutives adaptées aux besoins des utilisateurs🚀✨
- Mon portfolio 💻 : [![](Portfolio)](https://monportfolio-qi1i.onrender.com/)
+Passionné par le développement digital, je suis un développeur Full Stack spécialisé dans la création d’applications modernes et performantes. Avec une expertise en Frontend (React.js, React Native , css, bootstrap..) et Backend (Laravel, PHP), je conçois des solutions robustes et évolutives adaptées aux besoins des utilisateurs🚀✨<br/>
+ Mon portfolio 💻 :[![](https://monportfolio-qi1i.onrender.com)](https://monportfolio-qi1i.onrender.com/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nizar1600) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nizar.douirek.50) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nizar_douirek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nizar-douirek123) 
